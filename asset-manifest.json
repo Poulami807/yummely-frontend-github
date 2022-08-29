@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/yummely-frontend-github/static/css/main.75b5c03f.css",
+    "main.js": "/yummely-frontend-github/static/js/main.42dbed52.js",
+    "static/media/Yummely.jpg": "/yummely-frontend-github/static/media/Yummely.5fb6eb871a20e1af4013.jpg",
+    "static/media/slick.svg": "/yummely-frontend-github/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/yummely-frontend-github/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/yummely-frontend-github/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/yummely-frontend-github/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/yummely-frontend-github/index.html",
+    "main.75b5c03f.css.map": "/yummely-frontend-github/static/css/main.75b5c03f.css.map",
+    "main.42dbed52.js.map": "/yummely-frontend-github/static/js/main.42dbed52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b5c03f.css",
+    "static/js/main.42dbed52.js"
+  ]
+}
